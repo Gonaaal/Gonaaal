@@ -1,6 +1,6 @@
 
 <p>
-  <h1 align="center"><b>Hola!, Soy Gonaaal👋</b></h1>
+  <h1 align="center"><b>¡Hola!, Soy Gonaaal👋</b></h1>
 </p>
 
 
@@ -15,7 +15,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://i.imgur.com/KdZeoNg.png" />
+<img align="right" height="270px" alt="GIF" src="" />
 
 ### Sobre mí
 - 💻 Poco a poco aprendiendo nuevos lenguajes
