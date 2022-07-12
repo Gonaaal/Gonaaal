@@ -49,7 +49,7 @@
 <!--<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />-->
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="After Effects" width="35px" src="https://user-images.githubusercontent.com/53043542/151185719-b4c4adf8-a6d9-445c-b1b6-a8a5ce1e3322.png" />
+<img align="left" alt="Node.js" width="35px" src="https://user-images.githubusercontent.com/87767165/178498652-d131b36a-2dd0-4dcb-a65f-5de88a15504f.png" />
 <img align="left" alt="Adobe Photoshop CC" width="35px" src="https://user-images.githubusercontent.com/53043542/151185770-748957dd-19af-495e-9185-a966698db64d.png" />
 <img align="left" alt="FL Studio 20" width="35px" src="https://static.wikia.nocookie.net/softwareprogramas-y-aplicaciones/images/0/0b/Flstudio.png/revision/latest?cb=20160301021919&path-prefix=es" />
 <br>
