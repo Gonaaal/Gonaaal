@@ -25,7 +25,9 @@
 
 - 🥅 Mis Metas: Ser programador Profesional 
 
-- 📬 Contacta conmigo: **Gonaaal ツ#8512**
+- 📬 Contacta conmigo: ```bash
+Gonaaal ツ#8512
+```
 
 <br>
 
