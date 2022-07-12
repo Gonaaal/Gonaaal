@@ -58,4 +58,4 @@
 
 ***
 
-### Plantilla Usada de @dewstouh
+### Plantilla Usada de [dewstouh](https://github.com/dewstouh)
