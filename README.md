@@ -17,7 +17,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.imgur.com/KdZeoNg.png" />
 
-### Sobre mi
+### Sobre mí
 - 💻 Estoy aprendiendo Javascript junto con HTML y CSS
 - 🔭 Estoy trabajando en un Bot de Discord.js llamado [Niby 2.0](https://dewstouh.github.io/niby)
 - 👯 Buscando colaborar con otros desarolladores :wink:
