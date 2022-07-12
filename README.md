@@ -8,5 +8,5 @@
 Gonaaal/Gonaaal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## [Server BarcelonaRP](https://discord.gg/barcelonarp) | [Website](https://milrato.dev)
+
 <a href="https://discord.gg/barcelonarp"><img src="https://discord.com/api/guilds/773668217163218944/widget.png?style=banner2"></a>
