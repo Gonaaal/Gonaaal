@@ -18,16 +18,11 @@
 <img align="right" height="270px" alt="GIF" src="https://i.imgur.com/KdZeoNg.png" />
 
 ### Sobre mí
-- 💻 Estoy aprendiendo Javascript junto con HTML y CSS
-- 🔭 Estoy trabajando en un Bot de Discord.js llamado [Niby 2.0](https://dewstouh.github.io/niby)
-- 👯 Buscando colaborar con otros desarolladores :wink:
-- 🥅 2022 Metas: Back End Developer
-- 💬 Preguntame lo que quieras :smile:
-- 📬 Contacta conmigo: [Discord | El Mundo de Niby](https://discord.gg/MBPsvcphGf)
-- 🧗 Intento superar mis limites
-- 📹 También tengo experiencia en edición de video (VFX) con After Effects y Sony Vegas
-- 🖼 No solo he usado After Effects y Sony Vegas, si no que también se manejar Adobe Photoshop! (GFX) 😎
-- 🎶 Y por si te parecía poco... ¡También he usado FL Studio (SFX)! 🤣
+- 💻 Poco a poco aprendiendo nuevos lenguajes
+- 🔭 Cada día aprendiendo un poquito
+- ❤️ Divertiendome con lo que hago
+- 🥅 Mis Metas: Ser programador Profesional 
+- 📬 Contacta conmigo: **Gonaaal ツ#8512**
 
 <br>
 
@@ -61,3 +56,7 @@
 
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewstouh&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Lenguajes más usados por dewstouh">
+
+***
+
+### Plantilla Usada de @dewstouh
