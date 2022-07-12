@@ -65,4 +65,4 @@ Gonaaal ツ#8512
 
 ***
 
-### Plantilla Usada de [dewstouh](https://github.com/dewstouh)
+### Plantilla Usada de [@dewstouh](https://github.com/dewstouh)
