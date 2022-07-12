@@ -3,8 +3,6 @@
   <h1 align="center"><b>Hola!, Soy Gonaaal👋</b></h1>
 </p>
 
-***
-
 
 </p>
 
