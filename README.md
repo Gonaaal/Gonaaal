@@ -9,4 +9,5 @@ Gonaaal/Gonaaal is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://discord.gg/barcelonarp"><img src="[[![image](https://user-images.githubusercontent.com/87767165/178497512-042d279d-e58e-40b6-ace2-3444b4ae74ca.png)))"></a>
+<a href="https://discord.gg/dcdev"><img src="![image](https://user-images.githubusercontent.com/87767165/178497621-377dbe42-a073-4b2e-acc4-561229ead319.png)
+"></a>
