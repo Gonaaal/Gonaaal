@@ -38,20 +38,20 @@
 
 ### Lenguajes y Herramientas: 
 
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Visual Studio Code" width="35px" src="https://i.imgur.com/Ho97Ds6.png" />
+<img align="left" alt="HTML5" width="35px" src="https://i.imgur.com/CXvKhT6.png" />
+<img align="left" alt="CSS3" width="35px" src="https://i.imgur.com/bPvGVYG.png" />
+<img align="left" alt="JavaScript" width="35px" src="https://i.imgur.com/EySFjAp.png" />
 <!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <!--<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />-->
-<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Node.js" width="35px" src="https://user-images.githubusercontent.com/87767165/178498652-d131b36a-2dd0-4dcb-a65f-5de88a15504f.png" />
-<img align="left" alt="Adobe Photoshop CC" width="35px" src="https://user-images.githubusercontent.com/53043542/151185770-748957dd-19af-495e-9185-a966698db64d.png" />
-<img align="left" alt="FL Studio 20" width="35px" src="https://static.wikia.nocookie.net/softwareprogramas-y-aplicaciones/images/0/0b/Flstudio.png/revision/latest?cb=20160301021919&path-prefix=es" />
+<img align="left" alt="Git" width="35px" src="https://i.imgur.com/Gs2NTAR.png" />
+<img align="left" alt="GitHub" width="35px" src="https://i.imgur.com/tDYEm7t.png" />
+<img align="left" alt="Node.js" width="35px" src="https://i.imgur.com/skvW5oY.png" />
+<img align="left" alt="MongoDB" width="35px" src="https://i.imgur.com/sQTjEsD.png" />
+<img align="left" alt="MySQL" width="35px" src="https://i.imgur.com/JnfGney.png" />
 <br>
 <br>
 <br>
