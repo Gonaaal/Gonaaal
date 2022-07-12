@@ -54,7 +54,7 @@
 ### Estadísticas de Github
 
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewstouh&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Lenguajes más usados por dewstouh">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewstouh&show_icons=true&hide_border=true&theme=radical" width="27%" alt="Lenguajes más usados por gonaaal">
 
 ***
 
