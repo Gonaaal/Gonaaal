@@ -48,7 +48,7 @@
 <img align="left" alt="Node.js" width="35px" src="https://i.imgur.com/skvW5oY.png" />
 <img align="left" alt="MongoDB" width="35px" src="https://i.imgur.com/sQTjEsD.png" />
 
-/>
+
 
 <br>
 <br>
