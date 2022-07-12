@@ -15,7 +15,6 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="" />
 
 ### Sobre mí
 - 💻 Poco a poco aprendiendo nuevos lenguajes
