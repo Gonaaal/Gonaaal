@@ -18,9 +18,13 @@
 
 ### Sobre mí
 - 💻 Poco a poco aprendiendo nuevos lenguajes
+
 - 🔭 Cada día aprendiendo un poquito
+
 - ❤️ Divertiendome con lo que hago
+
 - 🥅 Mis Metas: Ser programador Profesional 
+
 - 📬 Contacta conmigo: **Gonaaal ツ#8512**
 
 <br>
