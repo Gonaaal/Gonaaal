@@ -5,8 +5,8 @@
 <h2 align="center">Me llamo Gonaaal, soy un desarrollador pequeño que le gusta programar.</h2>  
 
 <p>
-  Estoy creando un proyecto llamado Phibby Security.
-  <a href="[https://mivator.com](https://phibby.vercel.app/)](https://phibby.vercel.app/)">"Phibby"</a>. 
+  Estoy creando un proyecto llamado
+  <a href="[https://mivator.com](https://phibby.vercel.app/)](https://phibby.vercel.app/)">**Phibby Security.**</a>. 
 </p>
 
 <div align="center">
