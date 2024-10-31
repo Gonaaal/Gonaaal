@@ -28,11 +28,11 @@
 
 <br/>
 
-<h2>¡AYUDÁME!</h2>
+<h2>¡Apóyame en mi viaje como desarrollador!</h2>
 <ul>
   <li><a href="https://discord.com/oauth2/authorize?client_id=1243654191453306922&permissions=8&integration_type=0&scope=bot+applications.commands">Invitando</a>
-    <a href="https://top.gg/bot/">votando</a> Phibby</li>
-    <a href="https://discord.gg/2v3fuap9FQ">Phibby Suppot</a>
+  <li><a href="https://top.gg/bot/">Votando a Phibby</a></li>
+  <li><a href="https://discord.gg/2v3fuap9FQ">Phibby Suppot</a>
 </ul>
 
 <h2>Créditos</h2>
