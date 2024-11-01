@@ -21,7 +21,7 @@
 ***
 
 <ul>
-  <li>🔭 Cuando paso tiempo en mi PC, juego, programo, hago deporte o veo YouTube.</li>
+  <li>🔭 Cuando paso tiempo en mi PC, juego, programo, o veo YouTube/Twitch.</li>
   <li>🌱 Actualmente estoy programando en <strong>TypeScript</strong>, <strong>JavaScript</strong> y <strong>Python</strong>.</li>
   <li>👨‍💻 Estoy enamorado de programar bots para Discord.</li>
 </ul>
