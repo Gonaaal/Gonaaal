@@ -6,7 +6,7 @@
 
 <p>
   Estoy creando un proyecto llamado
-  <a href="[https://mivator.com](https://phibby.vercel.app/)](https://phibby.vercel.app/)">Phibby Security.</a>. 
+  <a href="[https://mivator.com](https://phibby.vercel.app/)](https://phibby.vercel.app/)">Phibby Security.</a> 
 </p>
 
 <div align="center">
