@@ -1,17 +1,16 @@
 <div align="center" style="border-radius:15px; overflow:hidden;">
-  <!-- Puedes agregar aquí una imagen o banner si lo deseas -->
 </div>
 
-<h2 align="center">Me llamo Gonaaal, soy un desarrollador pequeño que le gusta programar.</h2>  
+<h2 align="center">Me llamo Gonaaal, soy un desarrollador que le gusta programar.</h2>  
 
 <p>
   Estoy creando un proyecto llamado
-  <a href="[https://mivator.com](https://phibby.vercel.app/)](https://phibby.vercel.app/)">Phibby Security.</a> 
+  <a href="[https://phibbybot.com](https://phibbybot.com/)">Phibby Security.</a> 
 </p>
 
 <div align="center">
   <a href="https://discord.com/users/756936235968364664/">
-    <img src="https://discord.c99.nl/widget/theme-4/756936235968364664.png" alt="Discord User Widget">
+    <img src="https://discord.c99.nl/widget/theme-1/756936235968364664.png" alt="Discord User Widget">
   </a> 
   <a href="https://discord.gg/2v3fuap9FQ">
     <img src="https://discord.com/api/guilds/1289981049979277375/widget.png?style=banner2" alt="Discord Server Widget">
