@@ -22,7 +22,7 @@
 <ul>
   <li>🔭 Cuando paso tiempo en mi PC, juego, programo, o veo YouTube/Twitch.</li>
   <li>🌱 Actualmente estoy programando en <strong>TypeScript</strong>, <strong>JavaScript</strong> y <strong>Python</strong>.</li>
-  <li>👨‍💻 Estoy enamorado de programar bots para Discord.</li>
+  <li>👨‍💻 Me encanta programar bots para Discord.</li>
 </ul>
 
 <br/>
@@ -30,13 +30,6 @@
 <h2>¡Apóyame en mi viaje como desarrollador!</h2>
 <ul>
   <li><a href="https://discord.com/oauth2/authorize?client_id=1243654191453306922&permissions=8&integration_type=0&scope=bot+applications.commands">Invitando</a>
-  <li><a href="https://top.gg/bot/">Votando a Phibby</a></li>
+  <li><a href="https://top.gg/bot/1243654191453306922">Votando a Phibby</a></li>
   <li><a href="https://discord.gg/2v3fuap9FQ">Phibby Suppot</a>
 </ul>
-
-<h2>Créditos</h2>
-
-<p>
-  Puedes utilizar libremente cualquiera de mis proyectos, siempre que des crédito a mi cuenta de GitHub.
-</p>
-
