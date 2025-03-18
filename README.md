@@ -13,7 +13,7 @@
     <img src="https://discord.c99.nl/widget/theme-1/756936235968364664.png" alt="Discord User Widget">
   </a> 
   <a href="https://discord.gg/2v3fuap9FQ">
-    <img src="https://discord.com/api/guilds/1289981049979277375/widget.png?style=banner2" alt="Discord Server Widget">
+    <img src="https://discord.com/api/guilds/1289981049979277375/widget.png?style=banner3" alt="Discord Server Widget">
   </a>
 </div>
 
