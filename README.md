@@ -10,10 +10,10 @@
 
 <div align="center">
   <a href="https://discord.com/users/756936235968364664/">
-    <img src="https://discord.c99.nl/widget/theme-1/756936235968364664.png" alt="Discord User Widget" style="width: 200px; height: 200px; object-fit: cover;">
+    <img src="https://discord.c99.nl/widget/theme-1/756936235968364664.png" alt="Discord User Widget" style="width: 400px; height: 200px; object-fit: cover;">
   </a> 
   <a href="https://discord.gg/2v3fuap9FQ">
-    <img src="https://discord.com/api/guilds/1289981049979277375/widget.png?style=banner3" alt="Discord Server Widget" style="width: 200px; height: 200px; object-fit: cover;">
+    <img src="https://discord.com/api/guilds/1289981049979277375/widget.png?style=banner3" alt="Discord Server Widget" style="width: 400px; height: 200px; object-fit: cover;">
   </a>
 </div>
 
