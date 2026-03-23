@@ -1,35 +1,32 @@
-<div align="center" style="border-radius:15px; overflow:hidden;">
-</div>
+# Professional README Template
 
-<h2 align="center">Me llamo Gonaaal, soy un desarrollador que le gusta programar.</h2>  
+[![License](https://img.shields.io/github/license/Your-Username/Your-Repository?style=flat)](https://choosealicense.com/)
+![ViewCount](http://bit.ly/Github-Visits)
 
-<p>
-  Estoy creando un proyecto llamado
-  <a href="https://phibbybot.com">Phibby Security.</a> 
+### Hi there 👋 I'm [Your Name],
+
+A [Your Profession] passionate about [Your Field of Interest] :bar_chart:. I like [Your Interests], [Your Activities], and [Your Aspirations].
+
+- 🌱 I’m currently [Your Current Activity or Pursuit]
+- ⚡ **Fun fact:** [Fun Fact about Yourself]
+- 💬 Talk to me about [Topics of Interest]
+
+### My skills include
+
+<p align="center">
+	<img title="Skill 1" alt="Skill 1" src="https://raw.githubusercontent.com/Your-Username/Your-Repository/master/assets/skill1.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="Skill 2" alt="Skill 2" src="https://raw.githubusercontent.com/Your-Username/Your-Repository/master/assets/skill2.svg" width="80" height="50" style="vertical-align:down; margin:4px"/>
+	<!-- Add more skills as needed -->
 </p>
 
-<div align="center">
-  <a href="https://discord.com/users/756936235968364664/">
-    <img src="https://discord.c99.nl/widget/theme-1/756936235968364664.png" alt="Discord User Widget" style="width: 400px; height: 100px; object-fit: cover;">
-  </a> 
-  <a href="https://discord.gg/2v3fuap9FQ">
-    <img src="https://discord.com/api/guilds/1289981049979277375/widget.png?style=banner2" alt="Discord Server Widget" style="width: 300px; height: 100px; object-fit: cover;">
-  </a>
-</div>
-
-***
-
-<ul>
-  <li>🔭 Cuando paso tiempo en mi PC, juego, programo, o veo YouTube/Twitch.</li>
-  <li>🌱 Actualmente estoy programando en <strong>TypeScript</strong>, <strong>JavaScript</strong> y <strong>Python</strong>.</li>
-  <li>👨‍💻 Me encanta programar bots para Discord.</li>
-</ul>
-
-<br/>
-
-<h2>¡Apóyame en mi viaje como desarrollador!</h2>
-<ul>
-  <li><a href="https://discord.com/oauth2/authorize?client_id=1243654191453306922&permissions=8&integration_type=0&scope=bot+applications.commands">Invitando</a>
-  <li><a href="https://top.gg/bot/1243654191453306922">Votando a Phibby</a></li>
-  <li><a href="https://discord.gg/2v3fuap9FQ">Phibby Suppot</a>
-</ul>
+<hr>
+<p align="center">
+   <i>Your Motto or Favorite Quote</i>
+   <br>
+<br>
+<a target="_blank" href="https://yourwebsite.com/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
+<a target="_blank" href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<!-- Add more social links as needed -->
+<br>
+</p>
