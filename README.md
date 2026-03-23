@@ -1,5 +1,4 @@
-[![License](https://img.shields.io/github/license/Gonaaal/Gonaaal?style=flat)](https://choosealicense.com/)
-![ViewCount](http://bit.ly/Github-Visits)
+![Paypal](https://www.paypal.com/paypalme/twitchgonaaal)
 
 ### 👋 Hola, soy Gonaaal
 
@@ -18,7 +17,7 @@ Soy una persona apasionada por la tecnología y el desarrollo, siempre buscando 
 	<img title="CSS" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" height="40" style="margin:6px"/>
 	<img title="JavaScript" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="40" style="margin:6px"/>
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="40" style="margin:6px"/>
-	<!-- Puedes añadir más skills aquí -->
+	
 </p>
 
 ---
@@ -27,6 +26,16 @@ Soy una persona apasionada por la tecnología y el desarrollo, siempre buscando 
    <i>"Aprender, crear y mejorar cada día"</i>
    <br><br>
 
-<a target="_blank" href="#"><img src="https://img.shields.io/badge/-PORTFOLIO-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a> <a target="_blank" href="#"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a> <a target="_blank" href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://discord.gg/mBNcF2YD26">
+  <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
+<a target="_blank" href="https://www.paypal.com/paypalme/twitchgonaaal">
+  <img src="https://img.shields.io/badge/-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
+</a>
+
+<a target="_blank" href="mailto:twitchgonaaal@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 </p>
