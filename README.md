@@ -1,5 +1,3 @@
-![Paypal](https://www.paypal.com/paypalme/twitchgonaaal)
-
 ### 👋 Hola, soy Gonaaal
 
 Soy una persona apasionada por la tecnología y el desarrollo, siempre buscando aprender algo nuevo y mejorar mis habilidades 💻🚀. Me interesa especialmente el mundo de la programación, la innovación y crear cosas útiles.
@@ -16,8 +14,10 @@ Soy una persona apasionada por la tecnología y el desarrollo, siempre buscando 
 	<img title="HTML" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" height="40" style="margin:6px"/>
 	<img title="CSS" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" height="40" style="margin:6px"/>
 	<img title="JavaScript" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="40" style="margin:6px"/>
+	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="40" style="margin:6px"/>
+	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60" height="40" style="margin:6px"/>
+	<img title="Lua" alt="Lua" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="60" height="40" style="margin:6px"/>
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="40" style="margin:6px"/>
-	
 </p>
 
 ---
@@ -38,4 +38,4 @@ Soy una persona apasionada por la tecnología y el desarrollo, siempre buscando 
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-
+</p>
