@@ -1,4 +1,7 @@
 ### 👋 Hola, soy Gonaaal
+<br><br>
+
+<img src="https://discord.c99.nl/widget/theme-3/756936235968364664.png"/>
 
 Soy una persona apasionada por la tecnología y el desarrollo, siempre buscando aprender algo nuevo y mejorar mis habilidades 💻🚀. Me interesa especialmente el mundo de la programación, la innovación y crear cosas útiles.
 
@@ -38,8 +41,6 @@ Soy una persona apasionada por la tecnología y el desarrollo, siempre buscando 
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<br><br>
 
-<img src="https://discord.c99.nl/widget/theme-3/756936235968364664.png"/>
 
 </p>
